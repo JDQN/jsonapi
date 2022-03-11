@@ -1,4 +1,5 @@
 {
+   "listProduct": [
       {
          "id": 0,
          "title": "Mugs Diseño de referencia 1",
@@ -321,4 +322,5 @@
          "category": "medias",
          "img":"/assets/images/img-api/medias/medias8.jpg"
       }
+   ]
 }
