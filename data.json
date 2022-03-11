@@ -1,4 +1,6 @@
 [
+    "listProduct": [
+    
     {
         "id": 1,
         "firstName": "Golda",
@@ -179,4 +181,5 @@
         "email": "vidal.kemmer@cfeo.io",
         "phone": "286-604-9725"
     }
+  ]
 ]
