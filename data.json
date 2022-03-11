@@ -1,26 +1,24 @@
 [
-    "listProduct": [
-    
     {
-        "id": 1,
+        "id": "aun59U",
         "firstName": "Golda",
         "lastName": "Jast",
         "title": "District Security Coordinator",
         "jobTitle": "Senior Markets Engineer",
-        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vc27/128.jpg",
-        "price": 62,
+        "avatar": "https://cdn.pixabay.com/photo/2016/12/06/01/26/colour-1885352__480.jpg",
+        "age": 62,
         "country": "Iran",
         "email": "golda.jast@cfeo.io",
         "phone": "903-715-9189"
     },
     {
-        "id": 2,
+        "id": "kLhAdE",
         "firstName": "Christelle",
         "lastName": "Watsica",
         "title": "Senior Functionality Consultant",
         "jobTitle": "Human Communications Executive",
-        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jcubic/128.jpg",
-        "price": 18,
+        "avatar": "https://cdn.pixabay.com/photo/2016/12/06/01/26/colour-1885352__480.jpg",
+        "age": 18,
         "country": "Saint Pierre and Miquelon",
         "email": "christelle.watsica@cfeo.io",
         "phone": "881-205-7612"
@@ -181,5 +179,4 @@
         "email": "vidal.kemmer@cfeo.io",
         "phone": "286-604-9725"
     }
-  ]
 ]
