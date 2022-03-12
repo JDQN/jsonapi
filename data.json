@@ -1,15 +1,11 @@
 [
     {
-        "id": "aun59U",
-        "firstName": "Golda",
-        "lastName": "Jast",
+        "id": 1,
         "title": "District Security Coordinator",
-        "jobTitle": "Senior Markets Engineer",
+        "desc" : "r Markets Engineer",
         "img": "https://img.freepik.com/vector-gratis/estudiantes-universitarios-o-universitarios-sonrientes-planos-libros_88138-859.jpg?w=1380",
-        "age": 62,
-        "country": "Iran",
-        "email": "golda.jast@cfeo.io",
-        "phone": "903-715-9189"
+        "price": 62,
+        "category": "camisetas"
     },
     {
         "id": "kLhAdE",
