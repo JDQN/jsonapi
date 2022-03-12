@@ -8,16 +8,12 @@
         "category": "camisetas"
     },
     {
-        "id": "kLhAdE",
-        "firstName": "Christelle",
-        "lastName": "Watsica",
-        "title": "Senior Functionality Consultant",
-        "jobTitle": "Human Communications Executive",
-        "avatar": "https://cdn.pixabay.com/photo/2016/12/06/01/26/colour-1885352__480.jpg",
-        "age": 18,
-        "country": "Saint Pierre and Miquelon",
-        "email": "christelle.watsica@cfeo.io",
-        "phone": "881-205-7612"
+       "id": 2,
+        "title": "District Security Coordinator",
+        "price": 20000,
+        "desc" : "r Markets Engineer",
+        "img": "https://img.freepik.com/vector-gratis/estudiantes-universitarios-o-universitarios-sonrientes-planos-libros_88138-859.jpg?w=1380",
+        "category": "gorra"
     },
     {
         "id": "mL9ZPa",
