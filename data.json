@@ -2,81 +2,81 @@
     {
         "id": 0,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs1.jpg",
         "category": "mugs"
     },
     {
         "id": 1,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs2.jpg",
         "category": "mugs"
     },
     {
          "id": 2,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs3.jpg",
         "category": "mugs"
     },
     {
         "id": 3,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs4.jpg",
         "category": "mugs"
     },
     {
          "id": 4,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs5.jpg",
         "category": "mugs"
     },
     {
          "id": 5,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs6.jpg",
         "category": "mugs"
     },
     {
          "id": 6,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs7.jpg",
         "category": "mugs"
     },
     {
          "id": 7,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs8.jpg",
         "category": "mugs"
     },
     {
          "id": 8,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs9.jpg",
         "category": "mugs"
     },
     {
          "id": 9,
         "title": "Mugs Diseño de referencia 1",
-        "price": 15,
+        "price": 15000,
         "desc" : "Hermosos mugs personalizados calidad AAA en porcelana  colores variados resistentes al calor y al frio de 11 Onz.",
-        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/camisetas/camisetas2.jpg",
+        "img": "https://raw.githubusercontent.com/JDQN/jsonapi/gh-pages/mugs/mugs10.jpg",
         "category": "mugs"
     }
 ]
