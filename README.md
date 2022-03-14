@@ -1,4 +1,4 @@
-### E-commerce Guaches este es el Readme de Api 👋   💻  🤓  🖥
+### E-commerce Guaches este es el Readme del Api JSON SERVER 👋   💻  🤓  🖥
 
 Link del Deploying Guaches E-commerce<a href="https://guaches-mc7x5rqzw-jdqn.vercel.app/"> Guaches E-commerce 🛒 </a>
 
